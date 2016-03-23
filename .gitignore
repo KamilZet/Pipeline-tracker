@@ -46,3 +46,6 @@ Network Trash Folder
 Temporary Items
 .apdisk
 Raportowanie/~$raporty z trackera 24.02_DEV(2).xlsm
+
+#Temporary Excel files
+~*.xlsm
